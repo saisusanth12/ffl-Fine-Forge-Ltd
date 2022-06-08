@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://saisusanth12.github.io/ffl-Fine-Forge-Ltd/wp-sitemap.xml
